@@ -6,19 +6,19 @@ function App() {
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          MAM <span className="heart">-</span> 06
         </p>
         <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
+          Student <code>Information</code> System
         </p>
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://www.instagram.com/mam.06_/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Follow me
           </a>
         </p>
       </header>
